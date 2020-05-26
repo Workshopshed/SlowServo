@@ -1,0 +1,15 @@
+{
+  "name": "SlowServo",
+  "keywords": "servo",
+  "description": "A wrapper to the standard servo library to make moving servos slowly an easier task": {
+    "type": "git",
+    "url": "https://github.com/Workshopshed/SlowServo"
+  },
+  "version": "0.0.1",
+  "authors": {
+    "name": "Andy Cark",
+    "url": "https://github.com/Workshopshed/"
+  },
+  "frameworks": "arduino",
+  "platforms": "*"
+}

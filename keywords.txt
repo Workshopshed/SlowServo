@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map SlowServo
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SlowServo	KEYWORD1	SlowServo
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+attach	KEYWORD2
+detach	KEYWORD2
+moveto	KEYWORD2
+speed	KEYWORD2
+attached	KEYWORD2
+position	KEYWORD2
+moving	KEYWORD2
+run	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################

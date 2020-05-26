@@ -26,6 +26,8 @@ void setup() {
 * Set the position
 * Call run repeatedly until it gets there
 
+Note that you can do other tasks whilst the servo is running but ensure that you call run often enough or it may run slower than desired.
+
 ```
 testServo.moveto(50);
   
